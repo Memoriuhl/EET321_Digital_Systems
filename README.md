@@ -1,4 +1,4 @@
-# EET321_TestandMeasure
+# EET321_Digital_Systems
 This repo contains programs used to complete assignments in PCT's EET321
 
 EET321_MotorRPM_Final Objectives:
